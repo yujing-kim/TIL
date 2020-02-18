@@ -18,4 +18,4 @@
 
 ## R
 
-* [R언어란?] (R/basic_r.md)
+* [R언어란?] (R/basic_R.md)
