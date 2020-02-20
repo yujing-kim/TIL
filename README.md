@@ -19,3 +19,6 @@
 ## R
 
 * [R언어란?](R/basic_R.md)
+* [변수](R/basic_R2.md)
+* [함수](R/basic_R3.md)
+* [패키지](R/basic_R4.md)
