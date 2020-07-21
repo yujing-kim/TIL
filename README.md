@@ -22,3 +22,11 @@
 * [변수](R/basic_R2.md)
 * [함수](R/basic_R3.md)
 * [패키지](R/basic_R4.md)
+
+
+## WEB
+
+#### web scraping
+##### request 예제
+* [naver 뉴스 제목 검색](WEB/1.Nhn_서비스_사용.md)
+* [papago API 사용](WEB/1.Nhn_파파고서비스사용_yesterday번역.md)
