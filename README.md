@@ -30,3 +30,5 @@
 ##### request 예제
 * [naver 뉴스 제목 검색](WEB/1.Nhn_서비스_사용.md)
 * [papago API 사용](WEB/1.Nhn_파파고서비스사용_yesterday번역.md)
+* [naver webtoon image download & upload](WEB/2_1.Nhn_webtoon_image_download_upload.md)
+* [naver webtoon image multi download & upload](WEB/2_2.Nhn_webtoon_image_multi_download.md)
