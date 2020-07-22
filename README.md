@@ -27,9 +27,14 @@
 ## WEB
 
 #### web scraping
-##### request 예제
+##### request
 * [naver 뉴스 제목 검색](WEB/1.Nhn_서비스_사용.md)
 * [papago API 사용](WEB/1.Nhn_파파고서비스사용_yesterday번역.md)
 * [naver webtoon image download & upload](WEB/2_1.Nhn_webtoon_image_download_upload.md)
 * [naver webtoon image multi download & upload](WEB/2_2.Nhn_webtoon_image_multi_download.md)
+
+##### BeautifulSoup
 * [기상청 날씨 데이터 조회하고 json file로 저장하기](WEB/3.기상청_날씨데이터_조회하기.md)
+
+##### pandas
+* [Pandas 기초 (행정구역정보 cvs 파일 사용)](WEB/4_1.Pandas_기초_행정구역정보_cvs.md)
