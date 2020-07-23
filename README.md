@@ -38,3 +38,6 @@
 
 #### pandas
 * [Pandas 기초 (행정구역정보 cvs 파일 사용)](WEB/4_1.Pandas_행정구역정보_cvs파일_분석.md)
+
+#### matplotlib, seaborn, MariaDB
+* [matplotlib, seaborn 을 사용하여 행정구역정보 시각화 + MariaDB 연동](WEB/4_2_matplotlib_seaborn_행정구역정보_시각화+mariaDB_연동.md)
