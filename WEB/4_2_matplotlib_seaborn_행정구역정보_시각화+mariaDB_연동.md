@@ -210,7 +210,7 @@ people_area_graph('강원도')
 ![png](4/output_8_1.png)
 
 
-# mariaDB 연동
+## 2. mariaDB 연동
 * pymysql과 sqlalchemy 사용
 * pymysql : python 프로그램과 DB연결해주는 역할
 * sqlalchemy : object를 DB의 Table로 mapping해주는 역할
