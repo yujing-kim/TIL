@@ -37,4 +37,4 @@
 * [기상청 날씨 데이터 조회하고 json file로 저장하기](WEB/3.기상청_날씨데이터_조회하기.md)
 
 #### pandas
-* [Pandas 기초 (행정구역정보 cvs 파일 사용)](WEB/4_1.Pandas_기초_행정구역정보_cvs.md)
+* [Pandas 기초 (행정구역정보 cvs 파일 사용)](WEB/4_1.Pandas_행정구역정보_cvs파일_분석.md)
