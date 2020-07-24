@@ -44,3 +44,5 @@
 
 #### pandas, regular expression, mariaDB
 * [melon top 100 scraping](WEB/6_melon_top_100_scraping.md)
+
+* [국회위원정보 scraping + MariaDB에 저장하기](WEB/7_국회위원정보_scraping_save.md)
