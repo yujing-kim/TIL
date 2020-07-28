@@ -27,7 +27,7 @@
 * [국회위원정보 scraping + MariaDB에 저장하기](WEB/7_국회위원정보_scraping_save.md)
 
 #### pymysql, mariaDB
-* [python에서 db사용 pymysql과 mariaDB 연동](WEB/8_pymysql과 mariaDB연동.md)
+* [python에서 db사용 pymysql과 mariaDB 연동](WEB/8.pymysql과 mariaDB연동.md)
 
 
 
