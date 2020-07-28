@@ -12,7 +12,7 @@
 
 * 개발자도구 - network - memCondListAjax.do - 새탭에서 열기
     * https://www.assembly.go.kr/assm/memact/congressman/memCond/memCondListAjax.do
-![dofile](7/dofile.PNG)
+* ![dofile](7/dofile.PNG)
 
 
 
@@ -21,7 +21,7 @@
     * currentPage: 7
     * movePageNum: 
     * rowPerPage: 6
-![page2](7/page2.PNG)
+* ![page2](7/page2.PNG)
 
 
 
@@ -29,7 +29,7 @@
     * currentPage: 13
     * movePageNum: 
     * rowPerPage: 6
-![page3](7/page3.PNG)
+* ![page3](7/page3.PNG)
 
 
 
@@ -185,276 +185,7 @@ print('complete')
     7 9771116
     8 9771276
     9 9771168
-    10 9771007
-    11 9771109
-    12 9771180
-    13 9770931
-    14 9770956
-    15 9771224
-    16 9771165
-    17 9770679
-    18 9771108
-    19 9770977
-    20 9771259
-    21 9770998
-    22 9770927
-    23 9771258
-    24 9770712
-    25 9771152
-    26 9771164
-    27 9771181
-    28 9770719
-    29 9770997
-    30 9771136
-    31 9770723
-    32 9771120
-    33 9771173
-    34 9770941
-    35 9770984
-    36 9771285
-    37 9771268
-    38 9770725
-    39 9770527
-    40 9771024
-    41 9771195
-    42 9770985
-    43 9771208
-    44 9771089
-    45 9771210
-    46 9771220
-    47 9771144
-    48 9771169
-    49 9771111
-    50 9771225
-    51 9770975
-    52 9770981
-    53 9770934
-    54 9771249
-    55 9771186
-    56 9771147
-    57 9771127
-    58 9771214
-    59 9771206
-    60 9771171
-    61 9771023
-    62 9771090
-    63 9771009
-    64 9771192
-    65 9771281
-    66 9770982
-    67 9770986
-    68 9770741
-    69 9771237
-    70 9770742
-    71 9770991
-    72 9771223
-    73 9771270
-    74 9771216
-    75 9771134
-    76 9771228
-    77 9770752
-    78 9770753
-    79 9770755
-    80 9771141
-    81 9771274
-    82 9771091
-    83 9771187
-    84 9771204
-    85 9771175
-    86 9771159
-    87 9770764
-    88 9770911
-    89 9771248
-    90 9770767
-    91 9770768
-    92 9770770
-    93 9770090
-    94 9771193
-    95 9771163
-    96 9771107
-    97 9770944
-    98 9771135
-    99 9771162
-    100 9771030
-    101 9770774
-    102 9770929
-    103 9770950
-    104 9770995
-    105 9770932
-    106 9771125
-    107 9770963
-    108 9771226
-    109 9770779
-    110 9771148
-    111 9771277
-    112 9771128
-    113 9771137
-    114 9770980
-    115 9770356
-    116 9771218
-    117 9771166
-    118 9771133
-    119 9771092
-    120 9770784
-    121 9771176
-    122 9771236
-    123 9771254
-    124 9770786
-    125 9771008
-    126 9771217
-    127 9770999
-    128 9771093
-    129 9771001
-    130 9770996
-    131 9771094
-    132 9770967
-    133 9771058
-    134 9771238
-    135 9770968
-    136 9771209
-    137 9771246
-    138 9771219
-    139 9771257
-    140 9770869
-    141 9770587
-    142 9770372
-    143 9771132
-    144 9771017
-    145 9771273
-    146 9771143
-    147 9771178
-    148 9771287
-    149 9771271
-    150 9771155
-    151 9771010
-    152 9771202
-    153 9771113
-    154 9771172
-    155 9771037
-    156 9771261
-    157 9770871
-    158 9770872
-    159 9771038
-    160 9771126
-    161 9771121
-    162 9770966
-    163 9771199
-    164 9770912
-    165 9771266
-    166 9771118
-    167 9770808
-    168 9771227
-    169 9771263
-    170 9770598
-    171 9771153
-    172 9770811
-    173 9771170
-    174 9771221
-    175 9770812
-    176 9771239
-    177 9771212
-    178 9771240
-    179 9771032
-    180 9770876
-    181 9770813
-    182 9771123
-    183 9770905
-    184 9771198
-    185 9771191
-    186 9771106
-    187 9771232
-    188 9771260
-    189 9771028
-    190 9770602
-    191 9771154
-    192 9770414
-    193 9771207
-    194 9771098
-    195 9771151
-    196 9771185
-    197 9771284
-    198 9771269
-    199 9771003
-    200 9771251
-    201 9771255
-    202 9771158
-    203 9771115
-    204 9771184
-    205 9771015
-    206 9770826
-    207 9771213
-    208 9771278
-    209 9770878
-    210 9771201
-    211 9771060
-    212 9771205
-    213 9770914
-    214 9771242
-    215 9771138
-    216 9770835
-    217 9771002
-    218 9771190
-    219 9771280
-    220 9770836
-    221 9771129
-    222 9770837
-    223 9771157
-    224 9770839
-    225 9771177
-    226 9771041
-    227 9771000
-    228 9771203
-    229 9771110
-    230 9770954
-    231 9771160
-    232 9771275
-    233 9771139
-    234 9771272
-    235 9770951
-    236 9771253
-    237 9770846
-    238 9770926
-    239 9771245
-    240 9771140
-    241 9770881
-    242 9771012
-    243 9771150
-    244 9771103
-    245 9771200
-    246 9771006
-    247 9771189
-    248 9771114
-    249 9771068
-    250 9771122
-    251 9771264
-    252 9771229
-    253 9770450
-    254 9771247
-    255 9771243
-    256 9770973
-    257 9771156
-    258 9770990
-    259 9770456
-    260 9771262
-    261 9771244
-    262 9771235
-    263 9771215
-    264 9770883
-    265 9771250
-    266 9770852
-    267 9771117
-    268 9771112
-    269 9771282
-    270 9771119
-    271 9771252
-    272 9771279
-    273 9770952
-    274 9771188
-    275 9771194
-    276 9771231
-    277 9771267
-    278 9770962
-    279 9771286
+    ....
     280 9771234
     281 9770858
     282 9771197
@@ -540,19 +271,6 @@ df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -610,19 +328,6 @@ data_df.head(2)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -835,19 +540,6 @@ data_df.loc[:,['당선횟수', '당선횟수2']].head(4) # 출력해보기!
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -911,19 +603,6 @@ data_df.loc[data_df['당선횟수2']=='6선',['이름', '당선횟수']]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -963,19 +642,6 @@ data_df.loc[:,['생년월일', 'year', 'month', 'day']].head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1040,19 +706,6 @@ high
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1093,19 +746,6 @@ low
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1174,19 +814,6 @@ data_df.loc[:, ['선거구', '선거구2']].head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
