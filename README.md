@@ -27,8 +27,11 @@
 * [국회위원정보 scraping + MariaDB에 저장하기](WEB/7_국회위원정보_scraping_save.md)
 
 #### pymysql, mariaDB
-* [python에서 db사용 pymysql과 mariaDB 연동](WEB/8.pymysql과 mariaDB연동.md)
+* [python에서 db사용 : pymysql과 mariaDB 연동](WEB/8.pymysql_mariaDB연동.md)
 
+#### itertools, Beatifulsoup
+* [팟빵scraping 1 : 다운로드받기](WEB/9_1.팟빵_scraping_1.md)
+* [팟빵scraping 2 : 함수화하여 처리하기](WEB/9_2.팟빵_scraping_2_함수처리.md)
 
 
 ---
