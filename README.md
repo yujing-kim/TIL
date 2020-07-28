@@ -1,28 +1,7 @@
 # TIL
 * Today I Learned
 
-
-## algorithm
-
-* [다이나믹 프로그래밍](algorithm/dp_fibonacci.md)
-* [정렬](algorithm/sort.md)
-* [그래프](algorithm/graph.md)
-
-
-## server
-
-#### basic
-* [클라이언트사이드 프론트엔드](server/front_end.md)
-* [서버사이드 백엔드](server/back_end.md)
-
-
-## R
-
-* [R언어란?](R/basic_R.md)
-* [변수](R/basic_R2.md)
-* [함수](R/basic_R3.md)
-* [패키지](R/basic_R4.md)
-
+---
 
 ## WEB
 
@@ -46,3 +25,35 @@
 * [melon top 100 scraping](WEB/6_melon_top_100_scraping.md)
 
 * [국회위원정보 scraping + MariaDB에 저장하기](WEB/7_국회위원정보_scraping_save.md)
+
+#### pymysql, mariaDB
+* [python에서 db사용 pymysql과 mariaDB 연동](WEB/8_pymysql과 mariaDB연동.md)
+
+
+
+---
+
+## algorithm
+
+* [다이나믹 프로그래밍](algorithm/dp_fibonacci.md)
+* [정렬](algorithm/sort.md)
+* [그래프](algorithm/graph.md)
+
+---
+
+## server
+
+#### basic
+* [클라이언트사이드 프론트엔드](server/front_end.md)
+* [서버사이드 백엔드](server/back_end.md)
+
+---
+
+## R
+
+* [R언어란?](R/basic_R.md)
+* [변수](R/basic_R2.md)
+* [함수](R/basic_R3.md)
+* [패키지](R/basic_R4.md)
+
+
