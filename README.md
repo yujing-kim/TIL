@@ -4,8 +4,11 @@
 ---
 
 ## WEB
+* with python
 
 ### web scraping
+
+
 #### request
 * [naver 뉴스 제목 검색](WEB/1.Nhn_서비스_사용.md)
 * [papago API 사용](WEB/1.Nhn_파파고서비스사용_yesterday번역.md)
@@ -32,6 +35,14 @@
 #### itertools, Beatifulsoup
 * [팟빵scraping 1 : 다운로드받기](WEB/9_1.팟빵_scraping_1.md)
 * [팟빵scraping 2 : 함수화하여 처리하기](WEB/9_2.팟빵_scraping_2_함수처리.md)
+
+#### Selenium
+* [간단하게 Selenium 사용해보기](WEB/10.Selenium사용_연습.md)
+
+---
+
+## MongoDB + Pymongo
+1. [mongoDB 기초와 문법](mongoDB_pymongo/1.mongodb_basic_open.md)
 
 
 ---
