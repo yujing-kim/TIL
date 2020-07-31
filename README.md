@@ -46,7 +46,8 @@
 1. [mongoDB 기초와 문법](mongoDB_pymongo/1.mongodb_basic_open.md)
 2. [Pymongo를 사용해서 MongoDB 제어하기](mongoDB_pymongo/2.pymongo_find_update_delete.md)
 3. [melon_top_100_song.json_파일_읽기_조회하기_MongoDB](mongoDB_pymongo/3.melon_top_100_song.json_파일_읽기_조회하기_MongoDB.md)
-
+4. [우편번호_데이터로_aggregation_연습하기](mongoDB_pymongo/4.우편번호_데이터_aggregation_연습.md)
+5. [Cine21_Crawling](mongoDB_pymongo/5.Cine21_Crawling.md)
 
 
 ---
