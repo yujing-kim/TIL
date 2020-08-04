@@ -48,7 +48,7 @@
 3. [melon_top_100_song.json_파일_읽기_조회하기_MongoDB](mongoDB_pymongo/3.melon_top_100_song.json_파일_읽기_조회하기_MongoDB.md)
 4. [우편번호_데이터로_aggregation_연습하기](mongoDB_pymongo/4.우편번호_데이터_aggregation_연습.md)
 5. [Cine21_Crawling](mongoDB_pymongo/5.Cine21_Crawling.md)
-
+6. [Cine21_mongoDB에 저장하고 검색하기](mongoDB_pymongo/6.Cine21_mongoDB저장_검색.md)
 
 ---
 
@@ -65,6 +65,13 @@
 #### basic
 * [클라이언트사이드 프론트엔드](server/front_end.md)
 * [서버사이드 백엔드](server/back_end.md)
+
+---
+
+
+## Django
+
+* [Django 시작하기](django/django_basic.md)
 
 ---
 
