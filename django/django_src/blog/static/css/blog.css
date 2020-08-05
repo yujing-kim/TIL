@@ -1,0 +1,36 @@
+
+
+
+
+.page-header {
+    background-color: #7dd4d2;
+    font-size: 36pt;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+}
+
+.page-header, .page-header a, .page-header a:visited, .page-header a:active {
+    color: #ffffff;
+
+    text-decoration: none;
+}
+
+h1,h2,h3,h4 {
+    font-family: 'Lobster', cursive;
+}
+
+.content{
+    margin-left : 40px;
+}
+
+.post{
+    margin-bottom : 50px;
+}
+
+.pub-date{
+    color: #828282;
+    font-size: 12px;
+}
