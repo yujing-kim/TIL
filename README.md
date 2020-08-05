@@ -3,7 +3,7 @@
 
 ---
 ## python
-* [python for PS](python/1.python_basic.md)
+* [python for PS](python/1.python_basic.ipynb)
 
 ---
 ## WEB
@@ -74,8 +74,8 @@
 
 ## Django
 
-* [Django 시작하기](django/1.django_basic.md)
-* [Blog App 예제 작성하기](django/2.blog_App_예제_작성.md)
+* [Django 시작하기](django/1.django_basic.ipynb)
+* [Blog App 예제 작성하기](django/2.blog_App_예제_작성.ipynb)
 
 
 
