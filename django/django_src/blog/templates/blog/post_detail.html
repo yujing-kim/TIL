@@ -1,6 +1,16 @@
 {% extends 'blog/base.html' %}
 
 {% block content %}
+<script>
+    function post_remove(){
+        //{% url 'post_remove' pk=post.pk %}
+        var result = confirm('Post를 삭세하시겠습니까?')
+        if(result) { //yes를 누르면 true를 반환
+            var remove_url = "{% url 'post_remove' pk=post.pk %}"
+            document.location.href = remove_url // a 태그에 href를 주는 것과 같은 역할
+        }
+    }
+</script>
       <div class="post">
           {% if post.published_date %}
             <div class="date">
@@ -15,7 +25,7 @@
               </a>
     <!--          여기까지 -->
     <!--          글 삭제 링크 추가하기-->
-              <a class = "btn btn-default" href="{% url 'post_remove' pk=post.pk %}">
+              <a class = "btn btn-default" href="#" onclick=post_remove()> <!-- js적용 -->
                   <span class="glyphicon glyphicon-remove"></span>
               </a>
     <!--          여기까지-->
