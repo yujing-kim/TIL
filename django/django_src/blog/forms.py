@@ -1,5 +1,5 @@
 from django import forms
-from .models import Post
+from .models import Post, Comment
 
 def min_length_3_validator(value):
     if len(value) < 3:
@@ -18,3 +18,8 @@ class PostModelForm(forms.ModelForm):
         fields = ('title', 'text')
     # validate검사를 Modelform에서 할 수 없음
     # 그래서 Model에서 해주어야한다.
+
+class CommentModelForm(forms.ModelForm):
+    class Meta:
+        model = Comment
+        fields = ('author', 'text')

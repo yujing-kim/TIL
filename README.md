@@ -53,6 +53,7 @@
 5. [Cine21_Crawling](mongoDB_pymongo/5.Cine21_Crawling.md)
 6. [Cine21_mongoDB에 저장하고 검색하기](mongoDB_pymongo/6.Cine21_mongoDB저장_검색.md)
 
+
 ---
 
 ## algorithm
@@ -76,7 +77,7 @@
 
 * [Django 시작하기](django/1.django_basic.ipynb)
 * [Blog App 예제 작성하기](django/2.blog_App_예제_작성.ipynb)
-
+* [blog_app을_mariaDB와_연결하기](mongoDB_pymongo/4.blog_app을_mariaDB와_연결하기.ipynb)
 
 
 ---

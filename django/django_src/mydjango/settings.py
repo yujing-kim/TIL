@@ -11,6 +11,10 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 """
 
 import os
+import pymysql
+pymysql.version_info = (1, 3, 13, "final", 0)
+pymysql.install_as_MySQLdb()
+
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -26,6 +30,9 @@ SECRET_KEY = 'a90mo+lcu618r$5kuwism6n30xq@yvvf$r9t5h%omdqh8x%s2i'
 DEBUG = True
 
 ALLOWED_HOSTS = []
+
+# 로그인 하면 최상위 index 레벨에서 로그인이 된다
+LOGIN_REDIRECT_URL = '/'
 
 
 # Application definition
@@ -75,9 +82,17 @@ WSGI_APPLICATION = 'mydjango.wsgi.application'
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    # 'default': {
+    #     'ENGINE': 'django.db.backends.sqlite3',
+    #     'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    # }
+    'default' : {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'django_db', # DB명
+        'USER': 'python', # 데이터베이스 계정
+        'PASSWORD':'python', # 계정 비밀번호
+        'HOST':'localhost', # 데이테베이스 IP
+        'PORT':'3306', # 데이터베이스 port
     }
 }
 
@@ -120,3 +135,5 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, STATIC_URL)
+
+
