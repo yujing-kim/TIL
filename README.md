@@ -77,7 +77,7 @@
 
 * [Django 시작하기](django/1.django_basic.ipynb)
 * [Blog App 예제 작성하기](django/2.blog_App_예제_작성.ipynb)
-* [blog_app을_mariaDB와_연결하기](mongoDB_pymongo/4.blog_app을_mariaDB와_연결하기.ipynb)
+* [blog_app을_mariaDB와_연결하기](django/4.blog_app을_mariaDB와_연결하기.ipynb)
 
 
 ---
