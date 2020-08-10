@@ -5,9 +5,11 @@
 ## python
 * [python for PS](python/1.python_basic.ipynb)
 
+
 ---
 ## WEB
 * with python
+
 
 ### web scraping
 
