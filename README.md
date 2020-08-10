@@ -11,7 +11,6 @@
 
 ### web scraping
 
-
 #### request
 * [naver 뉴스 제목 검색](WEB/1.Nhn_서비스_사용.md)
 * [papago API 사용](WEB/1.Nhn_파파고서비스사용_yesterday번역.md)
