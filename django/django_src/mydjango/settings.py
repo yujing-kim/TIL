@@ -29,7 +29,11 @@ SECRET_KEY = 'a90mo+lcu618r$5kuwism6n30xq@yvvf$r9t5h%omdqh8x%s2i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
+# runserver 실행할때
+#
+# python manage.py runserver 0.0.0.0:8000
+
 
 # 로그인 하면 최상위 index 레벨에서 로그인이 된다
 LOGIN_REDIRECT_URL = '/'

@@ -4,19 +4,34 @@ from django.http import HttpResponse
 from django.utils import timezone
 from django.contrib.auth.models import User
 from django.contrib.auth.decorators import login_required
+from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger # page handler
 
-# 내가 만든 import
+# 내가 만든 imports
 from .models import Post, Comment
 from .forms import PostModelForm, PostForm, CommentModelForm
 
 def post_list(request):
     name = 'Django'
+
     # return HttpResponse('''<h2>Post List</h2>
     #                         <p>{name}</p>
     #                         <p>{content}</p>'''.format(name=name, content = request.user))
-    posts = Post.objects.filter(published_date__lte=timezone.now()).order_by('published_date')
 
-    return render(request, 'blog/post_list.html', {'posts' : posts})
+    # posts = Post.objects.filter(published_date__lte=timezone.now()).order_by('published_date')
+    #
+    # return render(request, 'blog/post_list.html', {'posts' : posts})
+
+    post_list = Post.objects.filter(published_date__lte=timezone.now()).order_by('published_date')
+    paginator = Paginator(post_list, 2) # 한 페이지에 두개씩
+    page = request.GET.get('page') # 페이지 번호 : 쿼리 스트링으로 넘기기 위한 변수
+    
+    try:
+        posts = paginator.page(page)
+    except PageNotAnInteger:
+        posts = paginator.page(1)
+    except EmptyPage: # 페이지가 없으면 전체 글을 준다.
+        posts = paginator.page(paginator.num_pages)
+    return render(request, 'blog/post_list.html', {'posts': posts})
 
 # Post 상세조회
 def post_detail(request, pk):
