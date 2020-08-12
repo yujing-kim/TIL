@@ -1,6 +1,11 @@
 # TIL
 * Today I Learned
 
+## Git
+
+* [git bash 사용하기](Git/1.git_bash_사용방법.ipynb)
+
+
 ---
 ## python
 * [python for PS](python/1.python_basic.ipynb)
