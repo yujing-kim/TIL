@@ -1,9 +1,16 @@
 # TIL
 * Today I Learned
 
+---
+---
+
+
 ## Git
 
 * [git bash 사용하기](Git/1.git_bash_사용방법.ipynb)
+* [가상 환경과 패키지 관리](Git/2.가상환경과패키지관리.ipynb)
+* [git을 사용해서 project를 관리하는 방법](Git/3.git을_사용해보자.ipynb)
+* [나의 프로젝트를 github와 연동하여 관리하는 과정](Git/4.직접셋팅하는과정.ipynb)
 
 
 ---
