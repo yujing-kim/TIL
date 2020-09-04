@@ -4,6 +4,12 @@
 ---
 ---
 
+## Cloud
+### Cloud Infra
+1. [ubuntu초기설정-ubuntu GUI](Cloud/1.ubuntu초기설정-ubuntuGUI.md)
+
+---
+---
 
 ## Git
 
