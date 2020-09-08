@@ -7,6 +7,8 @@
 ## Cloud
 ### Cloud Infra
 1. [ubuntu초기설정-ubuntu GUI](Cloud/1.ubuntu초기설정-ubuntuGUI.md)
+2. [2.ubuntu초기설정-ubuntu CLI](Cloud/2.ubuntu초기설정-ubuntuCLI.md)
+3. [3.SSH접속_staticIP설정](Cloud/3.SSH접속_staticIP설정.md)
 
 ---
 ---
