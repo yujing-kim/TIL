@@ -9,6 +9,8 @@
 1. [ubuntu초기설정-ubuntu GUI](Cloud/1.ubuntu초기설정-ubuntuGUI.md)
 2. [2.ubuntu초기설정-ubuntu CLI](Cloud/2.ubuntu초기설정-ubuntuCLI.md)
 3. [3.SSH접속_staticIP설정](Cloud/3.SSH접속_staticIP설정.md)
+4. [4.리눅스_사용자관리와_파일관리](Cloud/4.리눅스_사용자관리와_파일관리.md)
+5. [5.셸스크립트_프로그래밍](Cloud/5.셸스크립트_프로그래밍.md)
 
 ---
 ---
