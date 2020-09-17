@@ -17,7 +17,7 @@
 1. [개인이 DevOps 시작하기 1](Cloud/6.개인이DevOps시작하기1.md)
 2. [개인이 DevOps 시작하기 2](Cloud/7.개인이DevOps시작하기2.md)
 3. [팀으로 DevOps 확대 - Docker](Cloud/8.팀으로DevOps확대-Docker.md)
-3. [팀으로 DevOps 확대 - Jenkins](Cloud/8.팀으로DevOps확대-Jenkins.md)
+3. [팀으로 DevOps 확대 - Jenkins](Cloud/9.팀으로DevOps확대-Jenkins.md)
 ---
 ---
 
