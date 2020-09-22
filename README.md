@@ -46,6 +46,9 @@
 ## Multicampus - 인터페이스 개발 프로젝트
 > 2020.08.14 ~ 2020.09.03
 
+- 합리적인 집을 구하기 위한 웹 사이트 - 여기어째..
+> project repo : https://github.com/Multicampus-Cloud-MSA-safehome
+
 0. [start project](mulcamp_project/0.start_project.ipynb)
 1. [서울시 범죄현황 데이터 분석](mulcamp_project/1.서울시범죄현황데이터분석.ipynb)
 2. [django 가상 환경 설정](mulcamp_project/2.django_가상환경.ipynb)
