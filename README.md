@@ -43,6 +43,24 @@
 ---
 ---
 
+## Multicampus - 인터페이스 개발 프로젝트
+> 2020.08.14 ~ 2020.09.03
+
+0. [start project](mulcamp_project/0.start_project.ipynb)
+1. [서울시 범죄현황 데이터 분석](mulcamp_project/1.서울시범죄현황데이터분석.ipynb)
+2. [django 가상 환경 설정](mulcamp_project/2.django_가상환경.ipynb)
+3. [django에 mariaDB 연결](mulcamp_project/3.mariaDB연결.ipynb)
+4. [django 외부 접속 허용하기](mulcamp_project/4.django_외부접속허용하기.ipynb)
+5. [django-rest-framework 구성하기](mulcamp_project/5.django-rest-framework구성하기.ipynb)
+6. [뉴스 크롤링하여 django db에 저장](mulcamp_project/6.뉴스크롤링하여django에저장.md)
+7. [뉴스 크롤링 검색어 지정하여 크롤링하기 + 기사 내용 함께 가져오기](mulcamp_project/7.뉴스크롤링_검색어지정_내용포함.md)
+8. [뉴스 데이터 refresh 및 검색어 설정](mulcamp_project/8.뉴스데이터refresh및검색어설정.md)
+9. [Heroku에 DRF서버 배포하기](mulcamp_project/9.Heroku배포하기.md)
+10. [heroku에 clock기능 사용](mulcamp_project/10.heroku에clock기능사용.md)
+
+---
+---
+
 ## Django
 > 2020.08.01 ~ 2020.08.09
 
@@ -115,7 +133,7 @@
 ---
 
 ## python
-- 2020.07.13 ~
+> 2020.07.13 ~
 * [python for PS](python/1.python_basic.ipynb)
 
 
