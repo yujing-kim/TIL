@@ -161,6 +161,9 @@
 ## algorithm PS for Python
 > 2022.07.31 ~~~
 
+프로그래머스 > 고득점kit
+* [2022.07.31] 정렬 > [H-index](algorithm/programmers/sort_h-index.py)
+
 ---
 ---
 ## server
